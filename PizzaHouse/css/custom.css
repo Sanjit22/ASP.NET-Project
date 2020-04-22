@@ -1,0 +1,86 @@
+﻿.center {
+    text-align: center;
+}
+
+.center-page {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: -40px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+body {
+    padding-top: 50px;
+}
+
+.space-vert {
+    margin-top: 20px;
+}
+
+.footer-pos {
+    width: auto;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+
+
+.textbox {
+    width: auto;
+    height: auto;
+}
+
+.bckimg {
+    background-image: url("pizza5.jpg");
+    opacity: 0.1;
+}
+
+.proNameView {
+    font-size: 40px;
+    line-height: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #696e80;
+}
+
+.divDet1 {
+    border-bottom: 1px dashed #696e80;
+    margin-bottom: 20px;
+}
+
+.h5size {
+    font-weight: 600;
+}
+
+input[type=radio] {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.mainButton {
+    border-radius: 3px;
+    outline: 0;
+    margin-top: 10px;
+    font-size: 13px;
+    min-height: 22px;
+    padding: 10px;
+    min-width: 108px;
+    font-weight: 500;
+    background-color: #FF5722;
+    border: 1px solid #FF5722;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.divDet1 {
+    border-bottom: 1px dashed #696e80;
+    margin-bottom: 20px;
+}
